@@ -15,13 +15,13 @@ source-files:
 database_url: ""
 
 # interval between each crawling
-crawl-interval: 1440  # v0.5.x default 60 (minutes)
+crawl-interval: 360   # v0.5.x default 60 (minutes)
 crontime:             # v0.4.x default 60 (minutes). Deprecated in the newest version
 
 # speed test
 speedtest: true       # default false. Warning: this will consume large network resources.
 speedtest-interval:   # default 720 (min)
-connection:           # default 5. The number of speed test connections simultaneously
+connection: 20        # default 5. The number of speed test connections simultaneously
 timeout:              # default 10 (seconds).
 ## active proxy speed test
 active-interval:      # default 60 (min)
