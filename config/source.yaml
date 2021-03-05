@@ -31,7 +31,70 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0304clash.yml
-    
+- type: clash
+  options:
+    url: https://bihai.cf/clash/proxies
+- type: clash
+  options:
+    url: https://upan.tk/clash/proxies
+- type: clash
+  options:
+    url: https://freemby.tk/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolv2.tk/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolss.tk/clash/proxies
+- type: clash
+  options:
+    url: https://hm2019721.ml/clash/proxies
+- type: clash
+  options:
+    url: https://6166888.xyz/clash/proxies
+- type: clash
+  options:
+    url: https://sspool.nl/clash/proxies
+- type: clash
+  options:
+    url: https://hello.stgod.com/clash/proxies
+- type: clash
+  options:
+    url: https://proxypool.ednovas.xyz/clash/proxies
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolsstest.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://proxypoolv2.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://free886.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://proxypool-guest997.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://proxy.moneyfly.club/clash/proxies
+- type: clash
+  options:
+    url: https://proxypool.fly.dev/clash/proxies
+- type: clash
+  options:
+    url: https://pool-840979.asia1.kinto.io
+- type: clash
+  options:
+    url: https://free.dswang.ga/clash/proxies
+- type: clash
+  options:
+    url: https://ss.dswang.ga:8443/clash/proxies
+
   # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
