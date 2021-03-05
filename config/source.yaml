@@ -1,55 +1,19 @@
-# 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
-
-# tg频道抓取
-- type: tgchannel
-  options:
-    channel: ssrList
-    num: 200
-
-# 翻墙党论坛抓取
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum-48-1.html
-
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-
-# 某个网站抓取
-- type: web-freessrxyz
-  options:
-
 # 订阅链接
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:
-    url: https://iwxf.netlify.app/
+    url: https://jiang.netlify.com/
 - type: subscribe
   options:
-    url: https://cdn.jsdelivr.net/gh/fqnews/bnews@latest/vs/v2.txt
-
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
 - type: subscribe
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/ss/ss.txt
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 - type: subscribe
   options:
-    url: https://jiang.netlify.app/
+    url: https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
 - type: subscribe
   options:
     url: https://gooii.ml/v2ray/sub
@@ -66,28 +30,9 @@
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
 - type: clash
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
-- type: clash
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashr.yaml
-- type: clash
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/qx/qx.yaml
-- type: clash
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/qx/q.yaml
-- type: clash
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/loon/loon.yaml
-- type: clash
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/sb/sb.yaml
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0304clash.yml
     
   # 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url: https://github.com/freefq/free
-- type: webfuzzsub
 - type: webfuzzsub
   options:
     url: https://github.com/wishcaiji/sublist/blob/main/suburl.txt
@@ -111,13 +56,7 @@
     url: https://uploader.shimo.im/f/w4fhn48OhKfxIcsA.txt?attname=tt.txt
 - type: webfuzzsub
   options:
-    url: https://github.com/pojiezhiyuanjun/freev2
-- type: webfuzzsub
-  options:
     url: https://wechoice.ml/main.html
-- type: webfuzzsub
-  options:
-    url: https://github.com/qwer123369/wangn9900-proxypool/blob/be46f914de8b90232b05150a2b038941c1b15369/source.yaml
 - type: webfuzzsub
   options:
     url: https://github.com/qwer123369/wangn9900-proxypool/blob/be46f914de8b90232b05150a2b038941c1b15369/source.yaml
@@ -137,10 +76,8 @@
 - type: webfuzzsub
   options:
     url: https://i.sqeven.me/q/detail/100
+    
 # 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:
     url: https://iwxf.netlify.app/
@@ -181,18 +118,6 @@
     url: https://i.sqeven.me/discuss/detail/102
 - type: webfuzz
   options:
-    url: https://merlinblog.xyz/wiki/freess.html
-- type: webfuzz
-  options:
-    url: https://lisondawang.tk/jiedianfenxiang.html
-- type: webfuzz
-  options:
-    url: https://github.com/freefq/free
-- type: webfuzz
-  options:
-    url: https://github.com/JACKUSR2089/v2ray-subscribed
-- type: webfuzz
-  options:
     url: https://github.com/umelabs/node.umelabs.dev
 - type: webfuzz
   options:
@@ -206,27 +131,6 @@
 - type: webfuzz
   options:
     url: https://github.com/ruanfei/ShadowsocksRRShare/blob/master/vmess%E8%8A%82%E7%82%B9%EF%BC%88%E9%A1%B6%E9%83%A8%E6%9C%80%E6%96%B0).md
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
-- type: webfuzz
-  options:
-    url: https://zfjvpn.gitbook.io/123/
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/ruanfei/ShadowsocksRRShare/master/ss/ss.txt
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/ruanfei/ShadowsocksRRShare/master/ssr/ssr.txt
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/freefq/free/master/README.md
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/52bp/52bp.github.io/master/freesite.html
-- type: webfuzz
-  options:
-    url: https://zfjvpn.gitbook.io/123/
 - type: webfuzz
   options:
     url: https://github.com/dadonggu/donggu/wiki
@@ -246,266 +150,12 @@
   options:
     url: https://lanrenl.github.io/2020/06/03/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/
 
-# tg频道抓取
-- type: tgchannel
-  options:
-    channel: ssrList
-    num: 200
-- type: tgchannel
-  options:
-    channel: aifenxiang2020
-    num: 200
-- type: tgchannel
-  options:
-    channel: sharecentre
-    num: 200
-- type: tgchannel
-  options:
-    channel: SSRSUB
-    num: 200
-- type: tgchannel
-  options:
-    channel: FreeSSRNode
-    num: 200
-- type: tgchannel
-  options:
-    channel: V2List
-    num: 200
-- type: tgchannel
-  options:
-    channel: SuperFastProxy
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrtool
-    num: 200
-- type: tgchannel
-  options:
-    channel: freeshadowsock
-    num: 200
-- type: tgchannel
-  options:
-    channel: jiedianfenxiang
-    num: 200
-- type: tgchannel
-  options:
-    channel: fanqiang666
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrtool_crack
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrshares
-    num: 200
-- type: tgchannel
-  options:
-    channel: gongyijichangfenxiang
-    num: 200
-- type: tgchannel
-  options:
-    channel: fanqiang666
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrtool_crack
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrv2taytgshare
-    num: 200
-- type: tgchannel
-  options:
-    channel: VPNFolder
-    num: 200
-- type: tgchannel
-  options:
-    channel: proxypools
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrList
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssList
-    num: 200
-- type: tgchannel
-  options:
-    channel: SSRSUB
-    num: 200
-- type: tgchannel
-  options:
-    channel: FreeSSRNode
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrlists
-    num: 200
-- type: tgchannel
-  options:
-    channel: ssrshares
-    num: 200
-- type: tgchannel
-  options:
-    channel: V2List
-    num: 200
-- type: tgchannel
-  options:
-    channel: FreeSSR666
-    num: 2000
-- type: tgchannel
-  options:
-    channel: fanqiang666
-    num: 200
-- type: tgchannel
-  options:
-    channel: jiedianfenxiang
-    num: 200
-- type: tgchannel
-  options:
-    channel: freeshadowsock
-    num: 200
-- type: tgchannel
-  options:
-    channel: QuantXSSR
-    num: 200
-- type: tgchannel
-  options:
-    channel: huhihuhihi
-    num: 2000
-- type: tgchannel
-  options:
-    channel: Ch_baipiao
-    num: 200
-- type: tgchannel
-  options:
-    channel: MTPdaili
-    num: 200
-- type: tgchannel
-  options:
-    channel: ripao1
-    num: 200
-- type: tgchannel
-  options:
-    channel: vmessr_mirror
-    num: 200
-- type: tgchannel
-  options:
-    channel: yg251153
-    num: 200
-- type: tgchannel
-  options:
-    channel: woyaofq
-    num: 200
-- type: tgchannel
-  options:
-    channel: FreeVPN8
-    num: 200
-- type: tgchannel
-  options:
-    channel: Xinana_awsl
-    num: 2000
-- type: tgchannel
-  options:
-    channel: daolis_miao
-    num: 200
-- type: tgchannel
-  options:
-    channel: baipiaojiedian
-    num: 200
-- type: tgchannel
-  options:
-    channel: LoremProxies
-    num: 100
-- type: tgchannel
-  options:
-    channel: sharecentre
-    num: 200
-- type: tgchannel
-  options:
-    channel: baipiaofuli
-
-# 翻墙党论坛抓取
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum.php?mod=rss&fid=50&auth=0
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum.php?mod=rss&fid=36&auth=0
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum.php?mod=rss&fid=2&auth=0
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum.php?mod=rss&fid=51&auth=0
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum.php?mod=rss&fid=48&auth=0
-
 # 某个网站抓取
 - type: web-freessrxyz
   options:
     url: https://lightyearapp.life/zh/free-vpn
 
-# 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/oouxx/fqsub/master/sub.list
-- type: webfuzzsub
-  options:
-    url: https://github.com/doudoubinga/ceshi/blob/master/trash/base64-sub
-- type: webfuzzsub
-  options:
-    url: https://github.com/JACKUSR2089/v2ray-subscribed   
-- type: webfuzzsub
-  options:
-    url: https://github.com/pojiezhiyuanjun/freev2
-
 # 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-- type: subscribe
-  options:
-    url: https://catcloud.cc/link/UKltbUAQBZbSs1p7?sub=3&extend=1
-- type: subscribe
-  options:
-    url: http://dy.v3pro.xyz/link/ZKVLPvHK94loF4Sk?sub=3&extend=1
-- type: subscribe
-  options:
-    url: http://dy.v3pro.xyz/link/ZKVLPvHK94loF4Sk?ssd=1
-- type: subscribe
-  options:
-    url: https://yt988.xyz/link/UFWbjiRsxlFN9ehY?sub=2
-- type: subscribe
-  options:
-    url: https://yt988.xyz/link/UFWbjiRsxlFN9ehY?sub=3
-- type: subscribe
-  options:
-    url: https://yt988.xyz/link/UFWbjiRsxlFN9ehY?sub=1
-- type: subscribe
-  options:
-    url: https://sub1.swagsub.top/link/KaaMk7xrrucfZyey?sub=1
-- type: subscribe
-  options:
-    url: https://sub1.swagsub.top/link/KaaMk7xrrucfZyey?sub=3
-- type: subscribe
-  options:
-    url: https://sub1.swagsub.top/link/KaaMk7xrrucfZyey?clash=1
-- type: subscribe
-  options:
-    url: https://subsice.top//link/XMkCTikr4kwWz5vV?sub=3&extend=1
-- type: subscribe
-  options:
-    url: https://subscribepro.cc/link/o3BBnUfkyhmJCca7?sub=3
-- type: subscribe
-  options:
-    url: https://subscribepro.cc/link/o3BBnUfkyhmJCca7?sub=1
-- type: subscribe
-  options:
-    url: https://subhaha.xyz/link/8YtxUW9xSgnU28Gl?sub=3&extend=1
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Day.txt
@@ -520,48 +170,31 @@
     url: https://raw.githubusercontent.com/satrom/V2SSR/master/V2RAY/Sub.txt
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Day.txt
-- type: subscribe
-  options:
     url: https://share.dmca.gripe/v5m2iqWlBi1PVhB7.txt
-
+    
+# 模糊抓取订阅链接
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/oouxx/fqsub/master/sub.list
+- type: webfuzzsub
+  options:
+    url: https://github.com/doudoubinga/ceshi/blob/master/trash/base64-sub
+- type: webfuzzsub
+  options:
+    url: https://github.com/JACKUSR2089/v2ray-subscribed   
+- type: webfuzzsub
+  options:
+    url: https://github.com/pojiezhiyuanjun/freev2
 # 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://merlinblog.xyz/wiki/freess.html
-- type: webfuzz
-  options:
-    url: https://telegra.ph/2020-10-3-10-02
 - type: webfuzz
   options:
     url: https://lisondawang.tk/jiedianfenxiang.html
 - type: webfuzz
   options:
-    url: https://www.freefq.com/d/file/free-ssr/20200811/1f3e9d0d0064f662457062712dcf1b66.txt
-- type: webfuzz
-  options:
-    url: https://zfjvpn.gitbook.io/123/
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/ruanfei/ShadowsocksRRShare/master/ss/ss.txt
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/ruanfei/ShadowsocksRRShare/master/ssr/ssr.txt
-- type: webfuzz
-  options:
     url: https://raw.githubusercontent.com/freefq/free/master/README.md
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/52bp/52bp.github.io/master/freesite.html
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/freefq/free/master/README.md
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/52bp/52bp.github.io/master/freesite.html
-- type: webfuzz
-  options:
-    url: https://zfjvpn.gitbook.io/
 - type: webfuzz
   options:
     url: https://www.freefq.com/d/file/free-ssr/20200811/1f3e9d0d0064f662457062712dcf1b66.txt
@@ -578,166 +211,204 @@
   options:
     url: https://raw.githubusercontent.com/ruanfei/ShadowsocksRRShare/master/ssr/ssr.txt
 
-
 # tg频道抓取
 - type: tgchannel
   options:
     channel: NetfreexSrV
-    num: 300
-- type: tgchannel
-  options:
-    channel: V2List
-    num: 300
-- type: tgchannel
-  options:
-    channel: ssrList
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: SSRSUB
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: FreeSSRNode
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: V2List
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: ssrtool
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: freeshadowsock
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: jiedianfenxiang
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: fanqiang666
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: ssrtool_crack
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: ssrshares
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: gongyijichangfenxiang
-    num: 300
-- type: tgchannel
-  options:
-    channel: fanqiang666
-    num: 300
-- type: tgchannel
-  options:
-    channel: ssrtool_crack
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: moneyfly01
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: ssrv2taytgshare
-    num: 300
-- type: tgchannel
-  options:
-    channel: freeshadowsock
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: gyjclub
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: TgProxies
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: VPNFolder
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: vmesssr
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: youmtp
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: ssrkn
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: abchz
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: yg251153
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: woyaofq
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: wwx_com
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: freessr4k
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: ultrafreevpn
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: VSshit
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: InternetSSR
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: baipiaodadui
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: mtproxy666
-    num: 300
+    num: 100
 - type: tgchannel
   options:
     channel: v2ray666
+    num: 100
+- type: tgchannel
+  options:
+    channel: ssrList
+    num: 100
+- type: tgchannel
+  options:
+    channel: aifenxiang2020
+    num: 100
+- type: tgchannel
+  options:
+    channel: sharecentre
+    num: 100
+- type: tgchannel
+  options:
+    channel: SuperFastProxy
+    num: 100
+- type: tgchannel
+  options:
+    channel: proxypools
+    num: 100
+- type: tgchannel
+  options:
+    channel: ssList
+    num: 100
+- type: tgchannel
+  options:
+    channel: ssrlists
     num: 300
 - type: tgchannel
   options:
-    channel: V2List
-    num: 300
-
-# 翻墙党论坛抓取
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum-48-1.html
-- type: web-fanqiangdang
-  options:
-    url: https://fanqiangdang.com/forum.php?mod=rss&fid=50&auth=0
+    channel: FreeSSR666
     num: 100
-- type: web-fanqiangdang
+- type: tgchannel
   options:
-    url: https://fanqiangdang.com/forum.php?mod=rss&fid=2&auth=0
-    num: 300
-- type: web-fanqiangdang
+    channel: QuantXSSR
+    num: 100
+- type: tgchannel
   options:
-    url: https://fanqiangdang.com/forum.php?mod=rss&fid=36&auth=0
-    num: 300
+    channel: huhihuhihi
+    num: 100
+- type: tgchannel
+  options:
+    channel: Ch_baipiao
+    num: 100
+- type: tgchannel
+  options:
+    channel: MTPdaili
+    num: 100
+- type: tgchannel
+  options:
+    channel: ripao1
+    num: 100
+- type: tgchannel
+  options:
+    channel: vmessr_mirror
+    num: 100
+- type: tgchannel
+  options:
+    channel: FreeVPN8
+    num: 100
+- type: tgchannel
+  options:
+    channel: Xinana_awsl
+    num: 100
+- type: tgchannel
+  options:
+    channel: daolis_miao
+    num: 100
+- type: tgchannel
+  options:
+    channel: baipiaojiedian
+    num: 100
+- type: tgchannel
+  options:
+    channel: LoremProxies
+    num: 100
+- type: tgchannel
+  options:
+    channel: baipiaofuli
+    num: 100
