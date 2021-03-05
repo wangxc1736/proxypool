@@ -7,7 +7,8 @@ source-files:
   # use local file
   - ./config/source.yaml
   # use web file
-  # - https://example.com/config/source.yaml
+  - https://raw.githubusercontent.com/money-fly/proxypool/master/config/source.yaml
+  - https://raw.githubusercontent.com/grxp/...qwq/main/...qwq
 
 # ======= 可选项，留空使用default值  =======
 
