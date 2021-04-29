@@ -1,395 +1,469 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://bihai.cf/ss/sub
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 - type: subscribe
   options:
-    url: https://upan.tk/ss/sub
+    url: https://jiang.netlify.com/
 - type: subscribe
   options:
-    url: https://freemby.tk/ss/sub
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
 - type: subscribe
   options:
-    url: https://proxypoolv2.tk/ss/sub
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 - type: subscribe
   options:
-    url: https://proxypoolss.tk/ss/sub
+    url: https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
 - type: subscribe
   options:
-    url: https://hm2019721.ml/ss/sub
+    url: https://gooii.ml/v2ray/sub
 - type: subscribe
   options:
-    url: https://6166888.xyz/ss/sub
+    url: https://youlianboshi.netlify.com/
 - type: subscribe
   options:
-    url: https://sspool.nl/ss/sub
-- type: subscribe
+    url: https://v2ray.banyunxiaoxi.ml/
+  # 模糊抓取订阅链接
+- type: webfuzzsub
   options:
-    url: https://hello.stgod.com/ss/sub
-- type: subscribe
+    url: https://github.com/wishcaiji/sublist/blob/main/suburl.txt
+- type: webfuzzsub
   options:
-    url: https://proxypool.ednovas.xyz/ss/sub
-- type: subscribe
+    url: https://github.com/oouxx/fqsub/blob/7f35b272888341f207acc10c92f1eb0be431e0e3/sub.list
+- type: webfuzzsub
   options:
-    url: https://fq.lonxin.net/ss/sub
-- type: subscribe
+    url: https://github.com/woytu/notes-vuepress/blob/757206d5c10d112d56a3c789d5a622d4bcfe6375/System/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F.md
+- type: webfuzzsub
   options:
-    url: https://proxypoolsstest.herokuapp.com/ss/sub
-- type: subscribe
+    url: http://proxypool.turinglabs.net/
+- type: webfuzzsub
   options:
-    url: https://proxypoolv2.herokuapp.com/ss/sub
-- type: subscribe
+    url: https://github.com/doudoubinga/ceshi/blob/27cd627f3467bcd88ab4a92f0c44baabc53c7e73/trash/base64-sub
+- type: webfuzzsub
   options:
-    url: https://free886.herokuapp.com/ss/sub
-- type: subscribe
+    url: https://attachments-cdn.shimo.im/KTVdWd7ipTJtGqaa.txt
+- type: webfuzzsub
   options:
-    url: https://sspool.herokuapp.com/ss/sub
-- type: subscribe
+    url: https://uploader.shimo.im/f/w4fhn48OhKfxIcsA.txt?attname=tt.txt
+- type: webfuzzsub
   options:
-    url: https://proxypool-guest997.herokuapp.com/ss/sub
-- type: subscribe
+    url: https://wechoice.ml/main.html
+- type: webfuzzsub
   options:
-    url: https://proxy.moneyfly.club/ss/sub
-- type: subscribe
+    url: https://github.com/qwer123369/wangn9900-proxypool/blob/be46f914de8b90232b05150a2b038941c1b15369/source.yaml
+- type: webfuzzsub
   options:
-    url: https://proxypool.fly.dev/ss/sub
-- type: subscribe
+    url: https://github.com/wechoice/wechoice.github.io/blob/eb7f35b85fb2c676c16598b258a17e05adb82718/main.html
+- type: webfuzzsub
   options:
-    url: https://pool-840979.asia1.kinto.io/ss/sub
-- type: subscribe
+    url: https://github.com/oouxx/fqsub/blob/a89bfb7a1a4633d4952d46470dda8c851f2e15cf/sub.list
+- type: webfuzzsub
   options:
-    url: https://free.dswang.ga/ss/sub
-- type: subscribe
-  options:
-    url: https://ss.dswang.ga:8443/ss/sub
-- type: subscribe
-  options:
-    url: https://pugaox.tryuhu235.tk/ss/sub
-- type: subscribe
-  options:
-    url: https://proxy.purel.in/ss/sub
-- type: subscribe
-  options:
-    url: http://8.136.5.236/ss/sub
-- type: subscribe
-  options:
-    url: https://www.linbaoz.com/ss/sub
-- type: subscribe
-  options:
-    url: https://clash.miko.tk/ss/sub
+    url: https://github.com/Alex950808/proxypool038/blob/ef5c730a505ba9115f6be84f5df37b66264d66bc/config/source.yaml
 
-- type: subscribe
+- type: webfuzzsub
   options:
-    url: https://bihai.cf/sip002/sub
-- type: subscribe
+    url: https://github.com/zmike1993/hello-world/wiki/SSR%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%EF%BC%88%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0%EF%BC%89
+- type: webfuzzsub
   options:
-    url: https://upan.tk/sip002/sub
+    url: https://i.sqeven.me/q/detail/100
+# 订阅链接
 - type: subscribe
   options:
-    url: https://freemby.tk/sip002/sub
+    url: https://iwxf.netlify.app/
 - type: subscribe
   options:
-    url: https://proxypoolv2.tk/sip002/sub
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
 - type: subscribe
   options:
-    url: https://proxypoolss.tk/sip002/sub
+    url: https://cdn.jsdelivr.net/gh/fqnews/bnews@latest/vs/v2.txt
 - type: subscribe
   options:
-    url: https://hm2019721.ml/sip002/sub
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
 - type: subscribe
   options:
-    url: https://6166888.xyz/sip002/sub
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashr.yaml
 - type: subscribe
   options:
-    url: https://sspool.nl/sip002/sub
+    url: https://gitea.com/proxypools/sub/raw/branch/main/qx/qx.yaml
 - type: subscribe
   options:
-    url: https://hello.stgod.com/sip002/sub
+    url: https://gitea.com/proxypools/sub/raw/branch/main/qx/q.yaml
 - type: subscribe
   options:
-    url: https://proxypool.ednovas.xyz/sip002/sub
+    url: https://gitea.com/proxypools/sub/raw/branch/main/loon/loon.yaml
 - type: subscribe
   options:
-    url: https://fq.lonxin.net/sip002/sub
+    url: https://gitea.com/proxypools/sub/raw/branch/main/sb/sb.yaml
 - type: subscribe
   options:
-    url: https://proxypoolsstest.herokuapp.com/sip002/sub
-- type: subscribe
+    url: https://gitea.com/proxypools/sub/raw/branch/main/ss/ss.txt
+# 网页模糊抓取
+- type: webfuzz
   options:
-    url: https://proxypoolv2.herokuapp.com/sip002/sub
-- type: subscribe
+    url: https://i.sqeven.me/discuss/detail/100
+- type: webfuzz
   options:
-    url: https://free886.herokuapp.com/sip002/sub
-- type: subscribe
+    url: https://i.sqeven.me/discuss/detail/102
+- type: webfuzz
   options:
-    url: https://sspool.herokuapp.com/sip002/sub
-- type: subscribe
+    url: https://github.com/umelabs/node.umelabs.dev
+- type: webfuzz
   options:
-    url: https://proxypool-guest997.herokuapp.com/sip002/sub
-- type: subscribe
+    url: https://github.com/freefq/free
+- type: webfuzz
   options:
-    url: https://proxy.moneyfly.club/sip002/sub
-- type: subscribe
+    url: https://github.com/iwxf/free-v2ray/blob/master/README.md
+- type: webfuzz
   options:
-    url: https://proxypool.fly.dev/sip002/sub
-- type: subscribe
+    url: https://github.com/hugetiny/awesome-vpn/blob/master/READMECN.md
+- type: webfuzz
   options:
-    url: https://pool-840979.asia1.kinto.io/sip002/sub
-- type: subscribe
+    url: https://github.com/ruanfei/ShadowsocksRRShare/blob/master/vmess%E8%8A%82%E7%82%B9%EF%BC%88%E9%A1%B6%E9%83%A8%E6%9C%80%E6%96%B0).md
+- type: webfuzz
   options:
-    url: https://free.dswang.ga/sip002/sub
-- type: subscribe
+    url: https://github.com/dadonggu/donggu/wiki
+- type: webfuzz
   options:
-    url: https://ss.dswang.ga:8443/sip002/sub
-- type: subscribe
+    url: https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+- type: webfuzz
   options:
-    url: https://pugaox.tryuhu235.tk/sip002/sub
-- type: subscribe
+    url: https://xincmg.github.io/
+- type: webfuzz
   options:
-    url: https://proxy.purel.in/sip002/sub
-- type: subscribe
+    url: https://github.com/iwxf/free-v2ray/blob/073f18282f5075b2de6ae1773aa1ea8c5c6b5693/README.md
+- type: webfuzz
   options:
-    url: http://8.136.5.236/sip002/sub
-- type: subscribe
+    url: https://www.facebook.com/groups/2371461312933872/?ref=share
+- type: webfuzz
   options:
-    url: https://www.linbaoz.com/sip002/sub
-- type: subscribe
+    url: https://lanrenl.github.io/2020/06/03/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/
+# 某个网站抓取
+- type: web-freessrxyz
   options:
-    url: https://clash.miko.tk/sip002/sub
-
+    url: https://lightyearapp.life/zh/free-vpn
+# 订阅链接
 - type: subscribe
   options:
-    url: https://bihai.cf/ssr/sub
+    url: https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Day.txt
 - type: subscribe
   options:
-    url: https://upan.tk/ssr/sub
+    url: https://yehuang2.netlify.app
 - type: subscribe
   options:
-    url: https://freemby.tk/ssr/sub
+    url: https://yehuang1.netlify.app
 - type: subscribe
   options:
-    url: https://proxypoolv2.tk/ssr/sub
+    url: https://raw.githubusercontent.com/satrom/V2SSR/master/V2RAY/Sub.txt
 - type: subscribe
   options:
-    url: https://proxypoolss.tk/ssr/sub
-- type: subscribe
+    url: https://share.dmca.gripe/v5m2iqWlBi1PVhB7.txt
+# 模糊抓取订阅链接
+- type: webfuzzsub
   options:
-    url: https://hm2019721.ml/ssr/sub
-- type: subscribe
+    url: https://raw.githubusercontent.com/oouxx/fqsub/master/sub.list
+- type: webfuzzsub
   options:
-    url: https://6166888.xyz/ssr/sub
-- type: subscribe
+    url: https://github.com/doudoubinga/ceshi/blob/master/trash/base64-sub
+- type: webfuzzsub
   options:
-    url: https://sspool.nl/ssr/sub
-- type: subscribe
+    url: https://github.com/JACKUSR2089/v2ray-subscribed   
+- type: webfuzzsub
   options:
-    url: https://hello.stgod.com/ssr/sub
-- type: subscribe
+    url: https://github.com/pojiezhiyuanjun/freev2
+# 网页模糊抓取
+- type: webfuzz
   options:
-    url: https://proxypool.ednovas.xyz/ssr/sub
-- type: subscribe
+    url: https://lisondawang.tk/jiedianfenxiang.html
+- type: webfuzz
   options:
-    url: https://fq.lonxin.net/ssr/sub
-- type: subscribe
+    url: https://raw.githubusercontent.com/freefq/free/master/README.md
+- type: webfuzz
   options:
-    url: https://proxypoolsstest.herokuapp.com/ssr/sub
-- type: subscribe
+    url: https://raw.githubusercontent.com/52bp/52bp.github.io/master/freesite.html
+- type: webfuzz
   options:
-    url: https://proxypoolv2.herokuapp.com/ssr/sub
-- type: subscribe
+    url: https://www.freefq.com/d/file/free-ssr/20200811/1f3e9d0d0064f662457062712dcf1b66.txt
+- type: webfuzz
   options:
-    url: https://free886.herokuapp.com/ssr/sub
-- type: subscribe
+    url: https://merlinblog.xyz/wiki/freess.html
+- type: webfuzz
   options:
-    url: https://sspool.herokuapp.com/ssr/sub
-- type: subscribe
+    url: https://zfjvpn.gitbook.io/123/
+- type: webfuzz
   options:
-    url: https://proxypool-guest997.herokuapp.com/ssr/sub
-- type: subscribe
+    url: https://raw.githubusercontent.com/ruanfei/ShadowsocksRRShare/master/ss/ss.txt
+- type: webfuzz
   options:
-    url: https://proxy.moneyfly.club/ssr/sub
-- type: subscribe
+    url: https://raw.githubusercontent.com/ruanfei/ShadowsocksRRShare/master/ssr/ssr.txt
+# clash格式订阅链接
+- type: clash
   options:
-    url: https://proxypool.fly.dev/ssr/sub
-- type: subscribe
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+- type: clash
   options:
-    url: https://pool-840979.asia1.kinto.io/ssr/sub
-- type: subscribe
+    url: https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0304clash.yml
+- type: clash
   options:
-    url: https://free.dswang.ga/ssr/sub
-- type: subscribe
+    url: https://bihai.cf/clash/proxies
+- type: clash
   options:
-    url: https://ss.dswang.ga:8443/ssr/sub
-- type: subscribe
+    url: https://upan.tk/clash/proxies
+- type: clash
   options:
-    url: https://pugaox.tryuhu235.tk/ssr/sub
-- type: subscribe
+    url: https://freemby.tk/clash/proxies
+- type: clash
   options:
-    url: https://proxy.purel.in/ssr/sub
-- type: subscribe
+    url: https://proxypoolv2.tk/clash/proxies
+- type: clash
   options:
-    url: http://8.136.5.236/ssr/sub
-- type: subscribe
+    url: https://proxypoolss.tk/clash/proxies
+- type: clash
   options:
-    url: https://www.linbaoz.com/ssr/sub
-- type: subscribe
+    url: https://hm2019721.ml/clash/proxies
+- type: clash
   options:
-    url: https://clash.miko.tk/ssr/sub
-
-- type: subscribe
+    url: https://6166888.xyz/clash/proxies
+- type: clash
   options:
-    url: https://bihai.cf/vmess/sub
-- type: subscribe
+    url: https://sspool.nl/clash/proxies
+- type: clash
   options:
-    url: https://upan.tk/vmess/sub
-- type: subscribe
+    url: https://hello.stgod.com/clash/proxies
+- type: clash
   options:
-    url: https://freemby.tk/vmess/sub
-- type: subscribe
+    url: https://proxypool.ednovas.xyz/clash/proxies
+- type: clash
   options:
-    url: https://proxypoolv2.tk/vmess/sub
-- type: subscribe
+    url: https://fq.lonxin.net/clash/proxies
+- type: clash
   options:
-    url: https://proxypoolss.tk/vmess/sub
-- type: subscribe
+    url: https://proxypoolsstest.herokuapp.com/clash/proxies
+- type: clash
   options:
-    url: https://hm2019721.ml/vmess/sub
-- type: subscribe
+    url: https://proxypoolv2.herokuapp.com/clash/proxies
+- type: clash
   options:
-    url: https://6166888.xyz/vmess/sub
-- type: subscribe
+    url: https://free886.herokuapp.com/clash/proxies
+- type: clash
   options:
-    url: https://sspool.nl/vmess/sub
-- type: subscribe
+    url: https://sspool.herokuapp.com/clash/proxies
+- type: clash
   options:
-    url: https://hello.stgod.com/vmess/sub
-- type: subscribe
+    url: https://proxypool-guest997.herokuapp.com/clash/proxies
+- type: clash
   options:
-    url: https://proxypool.ednovas.xyz/vmess/sub
-- type: subscribe
+    url: https://proxy.moneyfly.club/clash/proxies
+- type: clash
   options:
-    url: https://fq.lonxin.net/vmess/sub
-- type: subscribe
+    url: https://proxypool.fly.dev/clash/proxies
+- type: clash
   options:
-    url: https://proxypoolsstest.herokuapp.com/vmess/sub
-- type: subscribe
+    url: https://pool-840979.asia1.kinto.io
+- type: clash
   options:
-    url: https://proxypoolv2.herokuapp.com/vmess/sub
-- type: subscribe
+    url: https://free.dswang.ga/clash/proxies
+- type: clash
   options:
-    url: https://free886.herokuapp.com/vmess/sub
-- type: subscribe
+    url: https://ss.dswang.ga:8443/clash/proxies
+# tg频道抓取
+- type: tgchannel
   options:
-    url: https://sspool.herokuapp.com/vmess/sub
-- type: subscribe
+    channel: NetfreexSrV
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxypool-guest997.herokuapp.com/vmess/sub
-- type: subscribe
+    channel: SSRSUB
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxy.moneyfly.club/vmess/sub
-- type: subscribe
+    channel: FreeSSRNode
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxypool.fly.dev/vmess/sub
-- type: subscribe
+    channel: V2List
+    num: 100
+- type: tgchannel
   options:
-    url: https://pool-840979.asia1.kinto.io/vmess/sub
-- type: subscribe
+    channel: ssrtool
+    num: 100
+- type: tgchannel
   options:
-    url: https://free.dswang.ga/vmess/sub
-- type: subscribe
+    channel: freeshadowsock
+    num: 100
+- type: tgchannel
   options:
-    url: https://ss.dswang.ga:8443/vmess/sub
-- type: subscribe
+    channel: jiedianfenxiang
+    num: 100
+- type: tgchannel
   options:
-    url: https://pugaox.tryuhu235.tk/vmess/sub
-- type: subscribe
+    channel: fanqiang666
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxy.purel.in/vmess/sub
-- type: subscribe
+    channel: ssrtool_crack
+    num: 100
+- type: tgchannel
   options:
-    url: http://8.136.5.236/vmess/sub
-- type: subscribe
+    channel: ssrshares
+    num: 100
+- type: tgchannel
   options:
-    url: https://www.linbaoz.com/vmess/sub
-- type: subscribe
+    channel: gongyijichangfenxiang
+    num: 100
+- type: tgchannel
   options:
-    url: https://clash.miko.tk/vmess/sub
-
-- type: subscribe
+    channel: moneyfly01
+    num: 100
+- type: tgchannel
   options:
-    url: https://bihai.cf/trojan/sub
-- type: subscribe
+    channel: ssrv2taytgshare
+    num: 100
+- type: tgchannel
   options:
-    url: https://upan.tk/trojan/sub
-- type: subscribe
+    channel: gyjclub
+    num: 100
+- type: tgchannel
   options:
-    url: https://freemby.tk/trojan/sub
-- type: subscribe
+    channel: TgProxies
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxypoolv2.tk/trojan/sub
-- type: subscribe
+    channel: VPNFolder
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxypoolss.tk/trojan/sub
-- type: subscribe
+    channel: vmesssr
+    num: 100
+- type: tgchannel
   options:
-    url: https://hm2019721.ml/trojan/sub
-- type: subscribe
+    channel: youmtp
+    num: 100
+- type: tgchannel
   options:
-    url: https://6166888.xyz/trojan/sub
-- type: subscribe
+    channel: ssrkn
+    num: 100
+- type: tgchannel
   options:
-    url: https://sspool.nl/trojan/sub
-- type: subscribe
+    channel: abchz
+    num: 100
+- type: tgchannel
   options:
-    url: https://hello.stgod.com/trojan/sub
-- type: subscribe
+    channel: yg251153
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxypool.ednovas.xyz/trojan/sub
-- type: subscribe
+    channel: woyaofq
+    num: 100
+- type: tgchannel
   options:
-    url: https://fq.lonxin.net/trojan/sub
-- type: subscribe
+    channel: wwx_com
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxypoolsstest.herokuapp.com/trojan/sub
-- type: subscribe
+    channel: freessr4k
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxypoolv2.herokuapp.com/trojan/sub
-- type: subscribe
+    channel: ultrafreevpn
+    num: 100
+- type: tgchannel
   options:
-    url: https://free886.herokuapp.com/trojan/sub
-- type: subscribe
+    channel: VSshit
+    num: 100
+- type: tgchannel
   options:
-    url: https://sspool.herokuapp.com/trojan/sub
-- type: subscribe
+    channel: InternetSSR
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxypool-guest997.herokuapp.com/trojan/sub
-- type: subscribe
+    channel: baipiaodadui
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxy.moneyfly.club/trojan/sub
-- type: subscribe
+    channel: mtproxy666
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxypool.fly.dev/trojan/sub
-- type: subscribe
+    channel: v2ray666
+    num: 100
+- type: tgchannel
   options:
-    url: https://pool-840979.asia1.kinto.io/trojan/sub
-- type: subscribe
+    channel: ssrList
+    num: 100
+- type: tgchannel
   options:
-    url: https://free.dswang.ga/trojan/sub
-- type: subscribe
+    channel: aifenxiang2020
+    num: 100
+- type: tgchannel
   options:
-    url: https://ss.dswang.ga:8443/trojan/sub
-- type: subscribe
+    channel: sharecentre
+    num: 100
+- type: tgchannel
   options:
-    url: https://pugaox.tryuhu235.tk/trojan/sub
-- type: subscribe
+    channel: SuperFastProxy
+    num: 100
+- type: tgchannel
   options:
-    url: https://proxy.purel.in/trojan/sub
-- type: subscribe
+    channel: proxypools
+    num: 100
+- type: tgchannel
   options:
-    url: http://8.136.5.236/trojan/sub
-- type: subscribe
+    channel: ssList
+    num: 100
+- type: tgchannel
   options:
-    url: https://www.linbaoz.com/trojan/sub
-- type: subscribe
+    channel: ssrlists
+    num: 300
+- type: tgchannel
+  options:
+    channel: FreeSSR666
+    num: 100
+- type: tgchannel
+  options:
+    channel: QuantXSSR
+    num: 100
+- type: tgchannel
+  options:
+    channel: huhihuhihi
+    num: 100
+- type: tgchannel
+  options:
+    channel: Ch_baipiao
+    num: 100
+- type: tgchannel
+  options:
+    channel: MTPdaili
+    num: 100
+- type: tgchannel
+  options:
+    channel: ripao1
+    num: 100
+- type: tgchannel
+  options:
+    channel: vmessr_mirror
+    num: 100
+- type: tgchannel
+  options:
+    channel: FreeVPN8
+    num: 100
+- type: tgchannel
+  options:
+    channel: Xinana_awsl
+    num: 100
+- type: tgchannel
+  options:
+    channel: daolis_miao
+    num: 100
+- type: tgchannel
+  options:
+    channel: baipiaojiedian
+    num: 100
+- type: tgchannel
+  options:
+    channel: LoremProxies
+    num: 100
+- type: tgchannel
   options:
-    url: https://clash.miko.tk/trojan/sub
+    channel: baipiaofuli
+    num: 100
